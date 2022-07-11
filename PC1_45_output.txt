@@ -1,0 +1,35 @@
+Thickening meshes output
+lambda0 = 0.800, delta_lambda = 0.032
+
+LIFETIMES:
+-230.6128 fs	
+
+Error estimations:
+ fs,	
+
+Extrapolated value:
+ fs,	
+
+Mean deviation of the approximation:
+2.6842e-01	
+
+Mean-square deviation of the approximation:
+8.7360e-01	
+
+LG ERRORS
+Cross-corr:
+-1.2101	
+
+Total field:
+-1.1656	
+
+Reflected field:
+-2.2082	
+
+REFLECTION SPECTRUM
+resonance position:
+0.763685	0.776362	
+
+resonance depth:
+0.992955	0.925397	
+
